@@ -40,7 +40,7 @@ Also Check Here:
             y = target - nums[i]
             if y in nums[i+1:]:
                 i2 = nums[i+1:].index(y)+i+1
-                return [i, i2]
+                return [i, i2] |
 
 |2  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
 |3  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
