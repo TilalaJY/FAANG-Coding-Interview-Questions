@@ -28,8 +28,7 @@ Also Check Here:
 1. ### FAANG Must Do Problems
 | No. | Questions |
 | --- | --------- |
-|1  | [Two Sum](https://leetcode.com/problems/two-sum) |
-class Solution(object):
+|1  | [Two Sum](https://leetcode.com/problems/two-sum) |class Solution(object):
     def twoSum(self, nums, target):
         """
         :type nums: List[int]
@@ -42,6 +41,7 @@ class Solution(object):
             if y in nums[i+1:]:
                 i2 = nums[i+1:].index(y)+i+1
                 return [i, i2]
+
 |2  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
 |3  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |
 |4  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) |
