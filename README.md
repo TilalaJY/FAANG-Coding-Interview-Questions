@@ -37,7 +37,7 @@ Also Check Here:
 |7  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) |
 |8  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) |
 |9  | - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) |
-|10  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) |
+|10  | - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) |
 |11  | [Combination Sum](https://leetcode.com/problems/combination-sum) |
 |12  | [Rotate Image](https://leetcode.com/problems/rotate-image) |
 |13  | [Group Anagrams](https://leetcode.com/problems/group-anagrams) |
